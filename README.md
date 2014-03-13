@@ -1,2 +1,2 @@
-informational-website-progect
+informational-website-project
 =============================
